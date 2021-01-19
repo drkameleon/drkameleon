@@ -1,4 +1,4 @@
-![Hello world](logo.png)
+![Hello world](https://github.com/drkameleon/drkameleon/raw/main/header.png)
 
 - 🔭 I’m currently working on the [Arturo Programming Language](https://github.com/arturo-lang/arturo) & [Grafito Database](https://github.com/arturo-lang/grafito)
 - 🌱 I’m currently learning more about Graph Databases, advanced SQL and Programming language development (Bytecode-based VMs included)
