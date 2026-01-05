@@ -9,6 +9,3 @@
 <a href="https://github.com/sponsors/drkameleon"><img src="https://img.shields.io/github/sponsors/drkameleon?style=for-the-badge&logo=github&label=SPONSOR%20ME%20%3A)&color=b14687"></a>
 </div>
 
-----
-
-![Dr.Kameleon's github stats](https://github-readme-stats.vercel.app/api?username=drkameleon&show_icons=true&theme=default)
